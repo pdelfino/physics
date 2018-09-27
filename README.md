@@ -9,7 +9,8 @@ Mathematical Modelling of Physical Phenomena
 
  + Modelling Table Tennis as the classic arcade game Pong
  
- ---
+Real Measures
+---
  
  I tried to model the real game. Hence, I kept the proportions between the objects involved, like the table, the racket and the ball size. 
  
@@ -18,6 +19,6 @@ Mathematical Modelling of Physical Phenomena
 ---
 
 Game Gif
-
+---
 
 ![Alt Text](https://media.giphy.com/media/2440Yhc1g5va07Ly09/giphy.gif)
