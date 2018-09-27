@@ -17,3 +17,7 @@ Mathematical Modelling of Physical Phenomena
 
 ---
 
+Game Gif
+
+
+![Alt Text](https://media.giphy.com/media/2440Yhc1g5va07Ly09/giphy.gif)
