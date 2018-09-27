@@ -7,7 +7,7 @@ Mathematical Modelling of Physical Phenomena
 
  + Tech Stack: Processing (3.4), Java mode
 
- + Modelling Table Tennis as the classic arcade game Pong
+ + Project: Modelling Table Tennis as the classic arcade game Pong
  
 Real Measures
 ---
