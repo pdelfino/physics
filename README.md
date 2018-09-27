@@ -11,4 +11,9 @@ Mathematical Modelling of Physical Phenomena
  
  ---
  
+ I tried to model the real game. Hence, I kept the proportions between the objects involved, like the table, the racket and the ball size. 
+ 
  ![alt text](https://github.com/pdelfino/physics/blob/master/rules-sizes.png "Logo Title Text 1")
+
+---
+
