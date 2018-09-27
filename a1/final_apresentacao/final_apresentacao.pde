@@ -11,7 +11,7 @@ float j = 17;
 
 float x_bola_pos, y_bola_pos; // posição inicial, coordenada y e coordenada x com valores None
 
-float x_speed = 10; //depois meter o random aqui
+float x_speed = 7; //depois meter o random aqui
 float y_speed = 5; //depois meter o random aqui
 
 int x_direction = 1; // esquerda para a direita
