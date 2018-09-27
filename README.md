@@ -1,11 +1,13 @@
 Mathematical Modelling of Physical Phenomena 
 ---
 
- + I did this for the course "Modelagem Matemática 2" (Mathematical Modelling 2) at the Escola de Mamemática Aplicada (EMAp). The course was led by Professor Paulo Cezar P. Carvalho.
+ + I did this for the course "Modelagem Matemática 2" (Mathematical Modelling 2) at the Escola de Mamemática Aplicada (EMAp). 
+ 
+ + Professor: PhD Paulo Cezar P. Carvalho.
 
- + Date: 2018.2
+ + Date: 2018.2.
 
- + Tech Stack: Processing (3.4), Java mode
+ + Tech Stack: Processing (3.4), Java mode.
 
  + Project: Modelling Table Tennis as the classic arcade game Pong
  
