@@ -5,7 +5,7 @@ Mathematical Modelling of Physical Phenomena
  
  + Professor: PhD Paulo Cezar P. Carvalho.
 
- + Date: 2018.1.
+ + Date: 2018.2.
 
  + Tech Stack: Processing (3.4), Java mode.
 
