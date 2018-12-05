@@ -46,6 +46,12 @@ I tried to model the real Solar System (Moon, Earth and Sun). Hence, I tried to 
  ![alt text](https://github.com/pdelfino/physics/blob/master/solar-eclipse-diff.png "Solar Eclipse out of scale") 
 
 
+Simulation Gif
+---
+
+![Alt Text](https://media.giphy.com/media/ZvUMWYKM2RQC6DMeDx/giphy.gif)
+
+
 Bugs to fix/features to add:
 ---
 
