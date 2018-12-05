@@ -51,4 +51,4 @@ Bugs to fix/features to add:
 
 + "Asgard bug";
 + The moon orbits the earth once every ~ 27 days. The earth orbits the sun once every 365 days. Hence, on my model, the moon should be completing 13 turns on Earth for each turn the Earth completes over the sun.
-+ Some serious/rigorous math should be used to define the speed/acceleration between objects.
++ Some serious/rigorous numerical method should be implemented to define the dynamic between objects.
