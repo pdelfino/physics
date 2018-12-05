@@ -1,38 +1,37 @@
 
-class Planet {
-  float radius;
-  float distance;
-  Planet[] planets;
+class Planeta {
+  float raio;
+  float distancia;
+  Planeta[] planetas;
   float angle;
-  float orbitspeed;
+  float orbitavel;
 
-  Planet(float r, float d, float o) {
-    radius = r;
-    distance = d;
+  Planeta(float r, float d, float o) {
+    raio = r;
+    distancia = d;
     angle = PI;
-    orbitspeed = o;
-    //println(angle);
+    orbitavel = o;
   }
 
-  void orbit() {
-    angle = angle + orbitspeed;
-    if (planets != null) {
-      for (int i = 0; i < planets.length; i++) {
-        planets[i].orbit();
+  void orbita() {
+    angle = angle + orbitavel;
+    if (planetas != null) {
+      for (int i = 0; i < planetas.length; i++) {
+        planetas[i].orbita();
       }
     }
   }
 
-  void spawnMoons(int total, int level) {
-    planets = new Planet[total];
-    for (int i = 0; i < planets.length; i++) {
-      float r = radius/(level*2);
-      float d = distance/level;
+  void criarLua(int total, int level) {
+    planetas = new Planeta[total];
+    for (int i = 0; i < planetas.length; i++) {
+      float r = raio/(level*2);
+      float d = distancia/level;
       float o = 0.01;
-      planets[i] = new Planet(r, d, o);
+      planetas[i] = new Planeta(r, d, o);
       if (level < 3) {
         int num = 2;
-        planets[i].spawnMoons(num, level+1);
+        planetas[i].criarLua(num, level+1);
       }
     }
   }
@@ -41,11 +40,11 @@ class Planet {
     pushMatrix();
     fill(255, 204, 0);
     rotate(angle);
-    translate(distance, 0);
-    ellipse(0, 0, radius*2, radius*2);
-    if (planets != null) {
-      for (int i = 0; i < planets.length; i++) {
-        planets[i].show();
+    translate(distancia, 0);
+    ellipse(0, 0, raio*2, raio*2);
+    if (planetas != null) {
+      for (int i = 0; i < planetas.length; i++) {
+        planetas[i].show();
       }
     }
     popMatrix();
