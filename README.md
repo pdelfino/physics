@@ -46,3 +46,8 @@ I tried to model the real Solar System (Moon, Earth and Sun). Hence, I tried to 
  ![alt text](https://github.com/pdelfino/physics/blob/master/solar-eclipse-diff.png "Solar Eclipse out of scale") 
 
 
+Bugs to fix/features to add:
+---
+
++ "Asgard bug";
++ The moon orbits the earth once every ~ 27 days. The earth orbits the sun once every 365 days. Hence, on my model, the moon should be completing 13 turns on Earth for each turn the Earth completes over the sun.
