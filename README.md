@@ -42,6 +42,10 @@ Real Measures
 I tried to model the real Solar System (Moon, Earth and Sun). Hence, I tried to keep the proportions between the objects.
 
 
- ![alt text](https://github.com/pdelfino/physics/blob/master/proportion-moon-earth-sun.png "Proportion between the Earth, the Sun and the Moon" =10x10)
+ ![alt text](https://github.com/pdelfino/physics/blob/master/proportion-moon-earth-sun.png "Proportion between the Earth, the Sun and the Moon"){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
- ![alt text](https://github.com/pdelfino/physics/blob/master/solar-eclipse-diff.png "Solar Eclipse out of scale" =90x80) 
+ ![alt text](https://github.com/pdelfino/physics/blob/master/solar-eclipse-diff.png "Solar Eclipse out of scale") 
