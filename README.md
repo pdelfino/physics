@@ -9,9 +9,13 @@ Mathematical Modelling of Physical Phenomena
 
  + Tech Stack: Processing (3.4), Java mode.
 
- + Project: Modelling Table Tennis as the classic arcade game Pong.
- 
+ + Projects: 
+   - Modelling Table Tennis as the classic arcade game Pong.
+   - Modelling a Solar Eclipse.
+   
  + Support Material: Getting Started With Processing
+ 
+# Pong
  
 Real Measures
 ---
@@ -26,3 +30,12 @@ Game Gif
 ---
 
 ![Alt Text](https://media.giphy.com/media/2440Yhc1g5va07Ly09/giphy.gif)
+
+
+# Solar Eclipse
+
+
+ 
+Real Measures
+---
+
