@@ -39,7 +39,7 @@ class Planet {
 
   void show() {
     pushMatrix();
-    fill(255, 100);
+    fill(255, 204, 0);
     rotate(angle);
     translate(distance, 0);
     ellipse(0, 0, radius*2, radius*2);
