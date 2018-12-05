@@ -22,14 +22,14 @@ Real Measures
  
  I tried to model the real game. Hence, I kept the proportions between the objects involved, like the table, the racket and the ball size. In addition, I used the official colours. 
  
- ![alt text](https://github.com/pdelfino/physics/blob/master/rules-sizes.png "Logo Title Text 1")
+ ![alt text](https://github.com/pdelfino/physics/blob/master/rules-sizes.png "Logo Title Text 1" =90x80)
 
 ---
 
 Game Gif
 ---
 
-![Alt Text](https://media.giphy.com/media/2440Yhc1g5va07Ly09/giphy.gif)
+![Alt Text](https://media.giphy.com/media/2440Yhc1g5va07Ly09/giphy.gif=50x50)
 
 
 # Solar Eclipse
