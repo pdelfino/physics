@@ -44,5 +44,5 @@ I tried to model the real Solar System (Moon, Earth and Sun). Hence, I tried to 
 <a href="url"><img src="https://github.com/pdelfino/physics/blob/master/proportion-moon-earth-sun.png" align="center" height="400" width="400" ></a>
 
 
-<a href="url"><img src="https://github.com/pdelfino/physics/blob/master/solar-eclipse-diff.png" align="center" height="400" width="400" ></a>
+<a href="url"><img src="https://github.com/pdelfino/physics/blob/master/solar-eclipse-diff.png" align="center" height="400" width="600" ></a>
 
