@@ -1,6 +1,6 @@
 # Mathematical Modelling of Physical Phenomena
 
-![A Philosopher Lecturing on the Orrery](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wright_of_Derby%2C_The_Orrery.jpg/700px-Wright_of_Derby%2C_The_Orrery.jpg)
+![A Philosopher Lecturing on the Orrery](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wright_of_Derby%2C_The_Orrery.jpg/960px-Wright_of_Derby%2C_The_Orrery.jpg)
 
 *"A Philosopher Lecturing on the Orrery" (1766) by Joseph Wright of Derby — [Wikipedia](https://en.wikipedia.org/wiki/A_Philosopher_Lecturing_on_the_Orrery)*
 
